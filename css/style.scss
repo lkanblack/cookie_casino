@@ -124,11 +124,11 @@
         align-items: center;
         flex-direction: column;
         &-header {
+            width: 100%;
             text-align: center;
             position: relative;
             // background-color: #9768D3;
             color: #fff;
-            width: 463px;
             padding: 17px 19px;
             border-radius: 10px;
             z-index: 2;
